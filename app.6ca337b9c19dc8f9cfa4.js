@@ -1,0 +1,2 @@
+webpackJsonp([0,3],[function(n,e,o){var t=o(1);o(2),document.body.appendChild(t())},function(n,e){n.exports=function(){var n=document.createElement("h1");return n.innerHTML="Hello Worlds",n.className="pure-button",n}}]);
+//# sourceMappingURL=app.6ca337b9c19dc8f9cfa4.js.map
